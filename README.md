@@ -1,4 +1,4 @@
-# Harmonic Jam - Company Management System
+# Harmonic Jam
 
 ## Project Overview
 
